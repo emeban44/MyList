@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/anton</item>
+        <item>@font/baloo</item>
+        <item>@font/contrail_one</item>
+        <item>@font/creepster</item>
+        <item>@font/denk_one</item>
+        <item>@font/el_messiri</item>
+        <item>@font/galindo</item>
+        <item>@font/kavoon</item>
+        <item>@font/mouse_memoirs</item>
+        <item>@font/salsa</item>
+    </array>
+</resources>
